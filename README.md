@@ -5,7 +5,7 @@
 Some call me a developer. Others, an entrepreneur. I call myself an artist. ( CEO Saezen )
 
 ---
-<img align="left" height="350" src="https://64.media.tumblr.com/18dcc50407980bbe1ae8997befd6c130/1032641c1ba39b2f-2c/s540x810/8846493d0e2115dad5b791bececde9f85cc8b53e.gifv"  />
+<img align="left" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVrZHFnc25tcThlYTZzcThiNjRmajNtNzIyM3JoNzIwa2hnb29rbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u3NEVfImlhoLJPMePD/giphy.gif"  />
 
 
  *"There is no real me—only an idea. A presence. Something intangible, yet undeniable. What I create is a reflection, but never the whole picture."* 
