@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/beb203ffed9855ad3ddf8c78b8f9a463/tumblr_pmz7p6u9ym1xggw0so1_500.gifv" alt="GitHub Banner" width="100%" />
+<img height="50%" width="100%" src="https://64.media.tumblr.com/beb203ffed9855ad3ddf8c78b8f9a463/tumblr_pmz7p6u9ym1xggw0so1_500.gifv" alt="GitHub Banner" width="100%" />
 
 # **Saeed | I don’t just create i refine**  
 
